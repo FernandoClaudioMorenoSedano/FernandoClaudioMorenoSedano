@@ -66,7 +66,7 @@ I’m a programmer diving deep into *Software Development*. I'm always learning 
             </a>
         </td>
         <td style="text-align: center;">
-                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticem.png?raw=true" alt="NetPractice Logo">
+                <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png?raw=true" alt="NetPractice Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="NetPractice Score">
         </td>
