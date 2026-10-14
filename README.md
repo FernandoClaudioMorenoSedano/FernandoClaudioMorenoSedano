@@ -90,7 +90,7 @@ I’m a programmer diving deep into *Software Development*. I'm always learning 
                 <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Inception Score">
         </td>
         <td style="text-align: center;">
-            <a href="https://github.com/PabloRP111/C/tree/main/irc">
+            <a href="https://github.com/PabloRP111/42-Proyects/tree/main/ft_irc">
                 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png?raw=true" alt="IRC Logo">
                 <br>
                 <img src="https://img.shields.io/badge/Score-97%2F100-brightgreen" alt="IRC Score">
